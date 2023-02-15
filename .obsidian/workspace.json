@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "e15b0538e6c0afd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5cc2c2b0a15a97c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf4a32420485b012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e391ae0b5a5dd4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c0e714e3a90cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61f04b612395f41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c9a205ae7a0333c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1b8baf69f3c0bb7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e611f57e8d7a9387",
+    "type": "split",
+    "children": [
+      {
+        "id": "543934ae29477b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347a9b7c2f6cb801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f89c63b65a0395fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa824e2db97010c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "165f13fe67a7296d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "cf4a32420485b012",
+  "lastOpenFiles": [
+    "02-3-上课笔记.md",
+    "01-纪录、提取、整理、搜寻、应用.md",
+    "00-前言.md",
+    "images/截圖 2022-09-08 下午4.02.19.png",
+    "10-结语.md",
+    "04-2-整理-总结与归纳.md",
+    "04-1-整理-将资料处理成能消化的资讯.md",
+    "03-提取-将线索变成资料.md",
+    "02-7-小结.md",
+    "02-6-练功笔记.md"
+  ]
+}
