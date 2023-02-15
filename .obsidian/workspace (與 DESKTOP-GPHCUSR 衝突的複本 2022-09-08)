@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "e15b0538e6c0afd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a907cad0f01e1f7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e391ae0b5a5dd4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c0e714e3a90cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61f04b612395f41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c9a205ae7a0333c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1b8baf69f3c0bb7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e611f57e8d7a9387",
+    "type": "split",
+    "children": [
+      {
+        "id": "543934ae29477b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347a9b7c2f6cb801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f89c63b65a0395fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa824e2db97010c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "165f13fe67a7296d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a907cad0f01e1f7",
+  "lastOpenFiles": [
+    "02-纪录.md",
+    "99.md",
+    "01-纪录、提取、整理、搜寻、应用.md",
+    "00-前言.md",
+    "Pasted image 20220908115110.png",
+    "Pasted image 20220908115755.png",
+    "Pasted image 20220908115700.png",
+    "Pasted image 20220908115648.png",
+    "Pasted image 20220908130936.png",
+    "Pasted image 20220908132100.png"
+  ]
+}

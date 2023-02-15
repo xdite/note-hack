@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e15b0538e6c0afd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4a32420485b012",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10-结语.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e391ae0b5a5dd4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c0e714e3a90cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61f04b612395f41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c9a205ae7a0333c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1b8baf69f3c0bb7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e611f57e8d7a9387",
+    "type": "split",
+    "children": [
+      {
+        "id": "543934ae29477b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347a9b7c2f6cb801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-结语.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f89c63b65a0395fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10-结语.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa824e2db97010c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "165f13fe67a7296d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10-结语.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c61f04b612395f41",
+  "lastOpenFiles": [
+    "04-2-整理-总结与归纳.md",
+    "04-1-整理-将资料处理成能消化的资讯.md",
+    "03-提取-将线索变成资料.md",
+    "02-7-小结.md",
+    "02-6-练功笔记.md",
+    "02-5-会议笔记.md",
+    "02-4-读书笔记.md",
+    "10-结语.md",
+    "未命名 1.md",
+    "99.md"
+  ]
+}
