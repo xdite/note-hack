@@ -8,62 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf4a32420485b012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-1-提取：將線索變成資料.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c90bb4201f63a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-4-整合、應用、改進.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88c5c823f4b04bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-0 卡片筆記法+軟體實戰.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427acad3d81752a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-1-搜尋：如何探索未知問題的答案.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b5522d0052f94eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "06-0-應用.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20230626224111.png"
               }
             }
           },
@@ -71,35 +21,9 @@
             "id": "75814ce6c7a5cdb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "06-1-實戰展示：本書如何寫成.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95761569f4bbd246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-2 如何創作非虛構類文.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "176d34f864e170b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - 結語.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20230626224617.png"
               }
             }
           },
@@ -115,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "images/Pasted image 20230626224111.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "images/Pasted image 20230626224111.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "images/Pasted image 20230626224111.png"
               }
             }
           }
@@ -252,46 +175,46 @@
       "publish:发布更改": false
     }
   },
-  "active": "ad31716d42df1af3",
+  "active": "0b5522d0052f94eb",
   "lastOpenFiles": [
-    "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
-    "07 - 結語.md",
-    "10-结语.md",
-    "06-3 如何創作虛構類文體：如小說、劇本.md",
-    "06-2 如何創作非虛構類文.md",
-    "06-1-實戰展示：本書如何寫成.md",
-    "06-1-如何有源源不断的素材写文.md",
+    "replace_image.py",
     "images/Pasted image 20230626224617.png",
-    "README.md",
-    "06-2-如何写书.md",
+    "06-1-如何有源源不断的素材写文.md",
     "images/Pasted image 20230626224609.png",
     "images/Pasted image 20230626224601.png",
-    "04-3 卡片筆記法高級流程版（使用 Logseq）.md",
-    "02-3-上課筆記.md",
     "images/Pasted image 20230626224435.png",
     "images/Pasted image 20230626224424.png",
     "images/Pasted image 20230626224411.png",
     "images/Pasted image 20230626224403.png",
-    "06-0-應用.md",
-    "images/Pasted image 20230626224111.png",
     "images/Pasted image 20230626224151.png",
-    "05-2-整理、標記、重新歸納、類比.md",
+    "images/Pasted image 20230626224111.png",
     "images/Pasted image 20230626223941.png",
+    "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
+    "07 - 結語.md",
+    "06-3 如何創作虛構類文體：如小說、劇本.md",
+    "06-2 如何創作非虛構類文.md",
+    "06-1-實戰展示：本書如何寫成.md",
+    "06-0-應用.md",
+    "05-2-整理、標記、重新歸納、類比.md",
     "05-1-搜尋：如何探索未知問題的答案.md",
-    "2023-06-26.md",
     "04-5-如何擠出零碎時間整理筆記.md",
     "04-4 打造不斷成長的長青筆記.md",
-    "04-4",
+    "04-3 卡片筆記法高級流程版（使用 Logseq）.md",
     "04-2 卡片筆記法一般流程版（使用 Word）.md",
     "04-1 卡片筆記法第一步：先總結再歸納.md",
     "04-0 卡片筆記法+軟體實戰.md",
-    "1",
     "03-4-整合、應用、改進.md",
     "03-3-總結與歸納.md",
     "03-2-將資料整理成能消化的資訊.md",
     "03-1-提取：將線索變成資料.md",
     "03-0.md",
-    "03-xx",
-    "02-7-小結.md"
+    "02-7-小結.md",
+    "02-6-練功筆記.md",
+    "02-5-會議筆記.md",
+    "02-4-讀書筆記.md",
+    "02-3-上課筆記.md",
+    "04-4",
+    "1",
+    "03-xx"
   ]
 }
