@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-0-紀錄.md",
+                "file": "02-2-隨手記　Read it Later & Do it Later.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-0-紀錄.md",
+                "file": "02-2-隨手記　Read it Later & Do it Later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-0-紀錄.md",
+                "file": "02-2-隨手記　Read it Later & Do it Later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-0-紀錄.md"
+                "file": "02-2-隨手記　Read it Later & Do it Later.md"
               }
             }
           }
@@ -157,6 +157,12 @@
   },
   "active": "cf4a32420485b012",
   "lastOpenFiles": [
+    "02-1-提升記錄的速度與有效性.md",
+    "images/Pasted image 20230626214451.png",
+    "02-6-练功笔记.md",
+    "02-2-隨手記　Read it Later & Do it Later.md",
+    "images/Pasted image 20230626214621.png",
+    "02-0-紀錄.md",
     "01-紀錄、提取、整理、搜尋、應用.md",
     "images/Pasted image 20230626213950.png",
     "images/Pasted image 20230626213934.png",
@@ -168,7 +174,6 @@
     "04-2-整理-总结与归纳.md",
     "04-1-整理-将资料处理成能消化的资讯.md",
     "03-提取-将线索变成资料.md",
-    "02-7-小结.md",
-    "02-6-练功笔记.md"
+    "02-7-小结.md"
   ]
 }
