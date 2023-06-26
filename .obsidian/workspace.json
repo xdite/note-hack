@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-4-利用零碎时间整理笔记.md",
+                "file": "04-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-4-利用零碎时间整理笔记.md",
+                "file": "04-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-4-利用零碎时间整理笔记.md",
+                "file": "04-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-4-利用零碎时间整理笔记.md"
+                "file": "04-4.md"
               }
             }
           }
@@ -194,18 +194,29 @@
   },
   "active": "427acad3d81752a5",
   "lastOpenFiles": [
+    "04-3 卡片筆記法高級流程版（使用 Logseq）.md",
+    "images/Pasted image 20230626222609.png",
+    "04-5-利用零碎时间整理笔记.md",
+    "04-4.md",
+    "04-4",
+    "images/Pasted image 20230626222559.png",
+    "images/Pasted image 20230626222536.png",
+    "images/Pasted image 20230626222529.png",
+    "images/Pasted image 20230626222515.png",
+    "images/Pasted image 20230626222451.png",
+    "images/Pasted image 20230626222411.png",
+    "2023-06-26.md",
+    "images/Pasted image 20230626222342.png",
+    "images/Pasted image 20230626222218.png",
+    "images/Pasted image 20230626222207.png",
     "04-2 卡片筆記法一般流程版（使用 Word）.md",
     "04-1 卡片筆記法第一步：先總結再歸納.md",
-    "04-4-利用零碎时间整理笔记.md",
     "04-0 卡片筆記法+軟體實戰.md",
     "1",
-    "images/Pasted image 20230626221402.png",
     "03-4-整合、應用、改進.md",
     "03-3-總結與歸納.md",
     "03-2-將資料整理成能消化的資訊.md",
     "03-1-提取：將線索變成資料.md",
-    "images/Pasted image 20230626220404.png",
-    "images/Pasted image 20230626220444.png",
     "03-0.md",
     "03-xx",
     "02-7-小結.md",
@@ -215,15 +226,10 @@
     "02-3-上課筆記.md",
     "02-2-隨手記　Read it Later & Do it Later.md",
     "02-1-提升記錄的速度與有效性.md",
-    "images/Pasted image 20230626214451.png",
-    "images/Pasted image 20230626214621.png",
     "02-0-紀錄.md",
     "01-紀錄、提取、整理、搜尋、應用.md",
-    "images/Pasted image 20230626213950.png",
-    "images/Pasted image 20230626213934.png",
     "00-前言.md",
     "README.md",
-    "images/截圖 2022-09-08 下午4.02.19.png",
     "10-结语.md"
   ]
 }
