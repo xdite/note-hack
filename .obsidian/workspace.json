@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-紀錄、提取、整理、搜尋、應用.md",
+                "file": "02-0-紀錄.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-紀錄、提取、整理、搜尋、應用.md",
+                "file": "02-0-紀錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-紀錄、提取、整理、搜尋、應用.md",
+                "file": "02-0-紀錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-紀錄、提取、整理、搜尋、應用.md"
+                "file": "02-0-紀錄.md"
               }
             }
           }
@@ -155,14 +155,14 @@
       "publish:发布更改": false
     }
   },
-  "active": "c61f04b612395f41",
+  "active": "cf4a32420485b012",
   "lastOpenFiles": [
+    "01-紀錄、提取、整理、搜尋、應用.md",
     "images/Pasted image 20230626213950.png",
     "images/Pasted image 20230626213934.png",
     "00-前言.md",
     "README.md",
     "02-3-上课笔记.md",
-    "01-紀錄、提取、整理、搜尋、應用.md",
     "images/截圖 2022-09-08 下午4.02.19.png",
     "10-结语.md",
     "04-2-整理-总结与归纳.md",
