@@ -47,9 +47,11 @@
             "id": "427acad3d81752a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20230626223055.png"
+                "file": "04-5-如何擠出零碎時間整理筆記.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20230626223055.png",
+                "file": "04-5-如何擠出零碎時間整理筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20230626223055.png",
+                "file": "04-5-如何擠出零碎時間整理筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20230626223055.png"
+                "file": "04-5-如何擠出零碎時間整理筆記.md"
               }
             }
           }
@@ -190,13 +192,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "c61f04b612395f41",
+  "active": "427acad3d81752a5",
   "lastOpenFiles": [
-    "04-4 打造不斷成長的長青筆記.md",
     "images/Pasted image 20230626223055.png",
+    "04-4 打造不斷成長的長青筆記.md",
     "04-3 卡片筆記法高級流程版（使用 Logseq）.md",
     "images/Pasted image 20230626222609.png",
-    "04-5-利用零碎时间整理笔记.md",
+    "04-5-如何擠出零碎時間整理筆記.md",
     "04-4",
     "images/Pasted image 20230626222559.png",
     "images/Pasted image 20230626222536.png",
