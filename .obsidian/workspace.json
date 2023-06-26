@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md"
+                "file": "README.md"
               }
             }
           }
@@ -254,8 +254,8 @@
   },
   "active": "ad31716d42df1af3",
   "lastOpenFiles": [
-    "07 - 結語.md",
     "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
+    "07 - 結語.md",
     "10-结语.md",
     "06-3 如何創作虛構類文體：如小說、劇本.md",
     "06-2 如何創作非虛構類文.md",
