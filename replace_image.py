@@ -15,7 +15,7 @@ for folder_name, subfolders, filenames in os.walk(directory_path):
                 file_contents = file.read()
 
             # 用正則表達式替換字符串
-            updated_contents = re.sub(r'!\[\[Pasted image (.+?).png\]\]', r'![](\1.png)', file_contents)
+            updated_contents = re.sub(r'!\[\[Pasted image (.+?).png\]\]', r'![](images/\1.png)', file_contents)
 
             # 如果文件被更改，則寫回文件
             if updated_contents != file_contents:

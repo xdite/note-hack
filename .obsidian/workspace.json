@@ -11,9 +11,11 @@
             "id": "0b5522d0052f94eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20230626224111.png"
+                "file": "02-1-提升記錄的速度與有效性.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -21,9 +23,11 @@
             "id": "75814ce6c7a5cdb8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20230626224617.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -39,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20230626224111.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20230626224111.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20230626224111.png"
+                "file": "README.md"
               }
             }
           }
@@ -175,20 +180,22 @@
       "publish:发布更改": false
     }
   },
-  "active": "0b5522d0052f94eb",
+  "active": "75814ce6c7a5cdb8",
   "lastOpenFiles": [
+    "02-1-提升記錄的速度與有效性.md",
+    "images/20230626224609.png",
+    "images/20230626224601.png",
+    "images/20230626224435.png",
+    "images/20230626224424.png",
+    "images/20230626224411.png",
+    "images/20230626224403.png",
+    "images/20230626224151.png",
+    "images/20230626224111.png",
+    "images/20230626223941.png",
+    "images/20230626223752.png",
+    "01-紀錄、提取、整理、搜尋、應用.md",
     "replace_image.py",
-    "images/Pasted image 20230626224617.png",
     "06-1-如何有源源不断的素材写文.md",
-    "images/Pasted image 20230626224609.png",
-    "images/Pasted image 20230626224601.png",
-    "images/Pasted image 20230626224435.png",
-    "images/Pasted image 20230626224424.png",
-    "images/Pasted image 20230626224411.png",
-    "images/Pasted image 20230626224403.png",
-    "images/Pasted image 20230626224151.png",
-    "images/Pasted image 20230626224111.png",
-    "images/Pasted image 20230626223941.png",
     "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
     "07 - 結語.md",
     "06-3 如何創作虛構類文體：如小說、劇本.md",
@@ -212,7 +219,6 @@
     "02-6-練功筆記.md",
     "02-5-會議筆記.md",
     "02-4-讀書筆記.md",
-    "02-3-上課筆記.md",
     "04-4",
     "1",
     "03-xx"
