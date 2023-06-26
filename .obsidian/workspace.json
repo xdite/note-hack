@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-3 如何創作虛構類文體：如小說、劇本.md",
+                "file": "07 - 結語.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad31716d42df1af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-3 如何創作虛構類文體：如小說、劇本.md",
+                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-3 如何創作虛構類文體：如小說、劇本.md",
+                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-3 如何創作虛構類文體：如小說、劇本.md"
+                "file": "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md"
               }
             }
           }
@@ -240,10 +252,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "176d34f864e170b5",
+  "active": "ad31716d42df1af3",
   "lastOpenFiles": [
-    "06-2 如何創作非虛構類文.md",
+    "07 - 結語.md",
+    "08 - Bonus 如何配合 ChatGPT 進行應用與創作.md",
+    "10-结语.md",
     "06-3 如何創作虛構類文體：如小說、劇本.md",
+    "06-2 如何創作非虛構類文.md",
     "06-1-實戰展示：本書如何寫成.md",
     "06-1-如何有源源不断的素材写文.md",
     "images/Pasted image 20230626224617.png",
@@ -277,9 +292,6 @@
     "03-1-提取：將線索變成資料.md",
     "03-0.md",
     "03-xx",
-    "02-7-小結.md",
-    "02-6-練功筆記.md",
-    "02-5-會議筆記.md",
-    "02-4-讀書筆記.md"
+    "02-7-小結.md"
   ]
 }
