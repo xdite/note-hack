@@ -47,11 +47,9 @@
             "id": "427acad3d81752a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "04-4.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20230626223055.png"
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-4.md",
+                "file": "images/Pasted image 20230626223055.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-4.md",
+                "file": "images/Pasted image 20230626223055.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-4.md"
+                "file": "images/Pasted image 20230626223055.png"
               }
             }
           }
@@ -192,12 +190,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "427acad3d81752a5",
+  "active": "c61f04b612395f41",
   "lastOpenFiles": [
+    "04-4 打造不斷成長的長青筆記.md",
+    "images/Pasted image 20230626223055.png",
     "04-3 卡片筆記法高級流程版（使用 Logseq）.md",
     "images/Pasted image 20230626222609.png",
     "04-5-利用零碎时间整理笔记.md",
-    "04-4.md",
     "04-4",
     "images/Pasted image 20230626222559.png",
     "images/Pasted image 20230626222536.png",
@@ -208,7 +207,6 @@
     "2023-06-26.md",
     "images/Pasted image 20230626222342.png",
     "images/Pasted image 20230626222218.png",
-    "images/Pasted image 20230626222207.png",
     "04-2 卡片筆記法一般流程版（使用 Word）.md",
     "04-1 卡片筆記法第一步：先總結再歸納.md",
     "04-0 卡片筆記法+軟體實戰.md",
