@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-2-整理、標記、重新歸納、類比.md",
+                "file": "06-0-應用.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-2-整理、標記、重新歸納、類比.md",
+                "file": "06-0-應用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-2-整理、標記、重新歸納、類比.md",
+                "file": "06-0-應用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-2-整理、標記、重新歸納、類比.md"
+                "file": "06-0-應用.md"
               }
             }
           }
@@ -204,13 +204,15 @@
       "publish:发布更改": false
     }
   },
-  "active": "c61f04b612395f41",
+  "active": "0b5522d0052f94eb",
   "lastOpenFiles": [
+    "Pasted image 20230626224151.png",
+    "Pasted image 20230626224111.png",
+    "05-2-整理、標記、重新歸納、類比.md",
     "images/Pasted image 20230626223941.png",
     "05-1-搜尋：如何探索未知問題的答案.md",
     "2023-06-26.md",
     "images/Pasted image 20230626223752.png",
-    "05-2-整理、標記、重新歸納、類比.md",
     "04-5-如何擠出零碎時間整理筆記.md",
     "images/Pasted image 20230626223055.png",
     "04-4 打造不斷成長的長青筆記.md",
@@ -222,8 +224,6 @@
     "images/Pasted image 20230626222529.png",
     "images/Pasted image 20230626222515.png",
     "images/Pasted image 20230626222451.png",
-    "images/Pasted image 20230626222411.png",
-    "images/Pasted image 20230626222342.png",
     "04-2 卡片筆記法一般流程版（使用 Word）.md",
     "04-1 卡片筆記法第一步：先總結再歸納.md",
     "04-0 卡片筆記法+軟體實戰.md",
