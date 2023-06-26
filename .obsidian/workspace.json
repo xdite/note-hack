@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-4-讀書筆記.md",
+                "file": "02-5-會議筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-4-讀書筆記.md",
+                "file": "02-5-會議筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-4-讀書筆記.md",
+                "file": "02-5-會議筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-4-讀書筆記.md"
+                "file": "02-5-會議筆記.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "cf4a32420485b012",
   "lastOpenFiles": [
+    "02-4-讀書筆記.md",
     "02-3-上課筆記.md",
     "02-2-隨手記　Read it Later & Do it Later.md",
     "02-1-提升記錄的速度與有效性.md",
