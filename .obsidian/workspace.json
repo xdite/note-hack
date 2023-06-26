@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95761569f4bbd246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-2 如何創作非虛構類文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-1-實戰展示：本書如何寫成.md",
+                "file": "06-2 如何創作非虛構類文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-1-實戰展示：本書如何寫成.md",
+                "file": "06-2 如何創作非虛構類文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-1-實戰展示：本書如何寫成.md"
+                "file": "06-2 如何創作非虛構類文.md"
               }
             }
           }
@@ -216,10 +228,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "75814ce6c7a5cdb8",
+  "active": "95761569f4bbd246",
   "lastOpenFiles": [
-    "06-1-如何有源源不断的素材写文.md",
     "06-1-實戰展示：本書如何寫成.md",
+    "06-2 如何創作非虛構類文.md",
+    "06-1-如何有源源不断的素材写文.md",
     "images/Pasted image 20230626224617.png",
     "README.md",
     "06-2-如何写书.md",
