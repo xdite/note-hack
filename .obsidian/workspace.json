@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "e15b0538e6c0afd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ceca4629cdcee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf4a32420485b012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-0-應用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e391ae0b5a5dd4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c0e714e3a90cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61f04b612395f41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c9a205ae7a0333c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1b8baf69f3c0bb7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "53b10a1a0a394624",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e611f57e8d7a9387",
+    "type": "split",
+    "children": [
+      {
+        "id": "543934ae29477b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347a9b7c2f6cb801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-0-應用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f89c63b65a0395fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-0-應用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa824e2db97010c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "165f13fe67a7296d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06-0-應用.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "cf4a32420485b012",
+  "lastOpenFiles": [
+    "06-2 如何創作非虛構類文.md",
+    "06-1-實戰展示：本書如何寫成.md",
+    "06-0-應用.md",
+    "05-2-整理、標記、重新歸納、類比.md",
+    "05-1-搜尋：如何探索未知問題的答案.md",
+    "Pasted image 20230818131622.png",
+    "04-5-如何擠出零碎時間整理筆記.md",
+    "04-4 打造不斷成長的長青筆記.md",
+    "04-3 卡片筆記法高級流程版（使用 Logseq）.md",
+    "04-2 卡片筆記法一般流程版（使用 Word）.md",
+    "04-1 卡片筆記法第一步：先總結再歸納.md",
+    "04-0 卡片筆記法+軟體實戰.md",
+    "03-4-整合、應用、改進.md",
+    "03-3-總結與歸納.md",
+    "03-1-提取：將線索變成資料.md",
+    "Pasted image 20230818131533.png",
+    "Pasted image 20230818131514.png",
+    "Pasted image 20230818131453.png",
+    "Pasted image 20230818131446.png",
+    "03-2-將資料整理成能消化的資訊.md",
+    "Pasted image 20230818131408.png",
+    "Pasted image 20230818131351.png",
+    "03-0.md",
+    "02-7-小結.md",
+    "02-6-練功筆記.md",
+    "02-5-會議筆記.md",
+    "02-4-讀書筆記.md",
+    "02-3-上課筆記.md",
+    "02-2-隨手記　Read it Later & Do it Later.md",
+    "02-1-提升記錄的速度與有效性.md",
+    "02-0-紀錄.md",
+    "01-紀錄、提取、整理、搜尋、應用.md",
+    "04-2-整理-总结与归纳.md"
+  ]
+}
