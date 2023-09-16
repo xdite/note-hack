@@ -61,3 +61,7 @@
 
 - 07　總結
 - 08 ChatGPT 實戰
+
+  ## 紙本精修購買管道
+
+  博客來：https://www.books.com.tw/products/0010965079
